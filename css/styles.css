@@ -20,7 +20,7 @@
 }
 
 body {
-  font: Arial; 
+  font: Arial;
   text-align: center;
   margin: auto;
   width: 85%;
@@ -31,9 +31,15 @@ body {
   border: 1px solid whitesmoke;
   padding: 10px; 
   font: Times; 
+  background-color: whitesmoke;
 }
 
 .mysteriousrock {
   padding: 10px;
 }
+
+#survey {
+  background-color: whitesmoke;
+}
+
 
