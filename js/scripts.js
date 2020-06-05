@@ -7,8 +7,11 @@ $(document).ready(function() {
       const variable4 = $("input:radio[name=variable4]:checked").val();
       const variable5 = $("input:radio[name=variable5]:checked").val();
       const variable6 = $("input:radio[name=variable6]:checked").val();
-      if (variable1 === "the master" & variable2 === "the woman" & variable3 === "father" & variable4 === "tedium" & variable5 === "tokyo" & variable6 === "sparks") {
+      if (variable1 === 'the master' && variable2 === 'the woman' && variable3 === 'father' && variable4 === 'tedium' && variable5 === 'tokyo' && variable6 === 'sparks') {
         $(".Ruby").show();
+      } elseif (variable1 === 'cadaver' && variable2 === 'crazy boy' && variable3 === 'fight' && variable4 === 'punishment' && variable5 === 'mother' && variable6 === 'dawn') {
+        $(".Python").show();
       }
+
   });
 });
