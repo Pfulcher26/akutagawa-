@@ -20,16 +20,20 @@
 }
 
 body {
+  font: Arial; 
   text-align: center;
   margin: auto;
   width: 85%;
+  background: url(/img/moroccan-flower.png)
 }
 
 .shortmessage {
-  border: 1px solid rgb(238, 210, 214);
+  border: 1px solid whitesmoke;
   padding: 10px; 
+  font: Times; 
 }
 
 .mysteriousrock {
   padding: 10px;
 }
+
