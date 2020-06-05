@@ -1,26 +1,26 @@
 .Ruby {
   display:none; 
   text-align: center;
-  border: 1px solid pink; 
+  border: 1px solid rgb(238, 210, 214); 
   padding: 10px;
 }
 
 .Python {
   display:none; 
   text-align: center;
-  border: 1px solid pink; 
+  border: 1px solid rgb(238, 210, 214); 
   padding: 10px;
 }
 
 .Csharp {
   display:none; 
   text-align: center;
-  border: 1px solid pink; 
+  border: 1px solid rgb(238, 210, 214); 
   padding: 10px; 
 }
 
 #survey {
-  border: 1px solid pink; 
+  border: 1px solid rgb(238, 210, 214); 
 }
 
 body {
@@ -29,4 +29,11 @@ body {
   width: 85%;
 }
 
+.shortmessage {
+  border: 1px solid rgb(238, 210, 214);
+  padding: 10px; 
+}
 
+.mysteriousrock {
+  padding: 10px;
+}
