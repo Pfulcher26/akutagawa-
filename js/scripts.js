@@ -18,7 +18,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $("form#phone").submit(function(event) {
-  event.preventDefault();
-    alert("Woah");
+  $("img").click(function() {
+    alert("Woah"); 
+  });
 });
