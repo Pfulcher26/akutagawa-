@@ -1,15 +1,19 @@
-body {
-  text-align: center;
-}
-
 .Ruby {
   display:none; 
+  text-align: center;
 }
 
 .Python {
   display:none; 
+  text-align: center;
 }
 
 .Csharp {
   display:none; 
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  text-align: center;
 }
