@@ -1,16 +1,22 @@
 .Ruby {
   display:none; 
   text-align: center;
+  border: 1px dotted gray; 
+  padding: 10px;
 }
 
 .Python {
   display:none; 
   text-align: center;
+  border: 1px dotted gray; 
+  padding: 10px;
 }
 
 .Csharp {
   display:none; 
   text-align: center;
+  border: 1px dotted gray; 
+  padding: 10px;
 }
 
 body {
@@ -20,6 +26,6 @@ body {
 }
 
 img {
-  border: 6px solid black; 
+  border: 6px solid rgb(240, 198, 205); 
   max-width: 75%;
 }
