@@ -3,6 +3,7 @@
   text-align: center;
   border: 1px solid rgb(238, 210, 214); 
   padding: 10px;
+  background-color: whitesmoke;
 }
 
 .Python {
@@ -10,6 +11,7 @@
   text-align: center;
   border: 1px solid rgb(238, 210, 214); 
   padding: 10px;
+  background-color: whitesmoke;
 }
 
 .Csharp {
@@ -17,6 +19,7 @@
   text-align: center;
   border: 1px solid rgb(238, 210, 214); 
   padding: 10px; 
+  background-color: whitesmoke;
 }
 
 body {
@@ -28,7 +31,7 @@ body {
 }
 
 .shortmessage {
-  border: 1px solid whitesmoke;
+  border: 1px solid rgb(238, 210, 214); 
   padding: 10px; 
   font: Times; 
   background-color: whitesmoke;
@@ -39,7 +42,11 @@ body {
 }
 
 #survey {
+  border: 1px solid rgb(238, 210, 214); 
+  padding: 10px; 
   background-color: whitesmoke;
 }
 
-
+h1 {
+  font-family: 'Cinzel';
+}    
