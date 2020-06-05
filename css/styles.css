@@ -15,5 +15,11 @@
 
 body {
   text-align: center;
-  text-align: center;
+  margin: auto;
+  width: 85%;
+}
+
+img {
+  border: 6px solid black; 
+  max-width: 75%;
 }
