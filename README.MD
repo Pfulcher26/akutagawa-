@@ -66,5 +66,5 @@ _HTML、CSS、BOOTSTRAP、JS、JQUERY_
 
 *GPL*
 
-Copyright (c) 2020 **_Payne Fulcher ペイン・フルチャー__**
+Copyright (c) 2020 **_Payne Fulcher ペイン・フルチャー_**
  
