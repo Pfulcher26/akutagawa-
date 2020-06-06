@@ -24,7 +24,7 @@ _ENGLISH LANGUAGE VERSION_
 
 _OR_
 
-* Enter https://Pfulcher26.github.io/akutaga- in your preferred web browser 
+* Enter www.drakutagawa.net in your preferred web browser 
 
 _JAPANESE LANGUAGE VERSION_ 
 
@@ -36,7 +36,7 @@ _JAPANESE LANGUAGE VERSION_
 
 _または_
 
-* 任意のWebブラウザーにhttps://Pfulcher26.github.io/akutaga-と入力します
+* 任意のWebブラウザーに www.drakutagawa.net
 
 ## Known Bugs 既知のバグ
 
