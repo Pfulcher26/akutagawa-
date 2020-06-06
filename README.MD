@@ -9,8 +9,11 @@
 
 Dr Akutagawa's language support is a website built at the behest of the world famous Dr Akutagawa.  The website opens a brief mission statement from the good doctor himself before presenting users with a survey set composed of enigmatic variables.  The doctor then prescribes a professional recommendation for the programming language best suited to the user's responses. 
 
+For optimal experience, first select all answers on left and submit.  After that, do the same with all answers on the right.  Finally, mix up your answers.  Each combination results in a different language suggestion. 
+
 芥川博士の言語サポートは、世界的に有名な芥川博士の要請により構築されたウェブサイトです。ウェブサイトは、不可解な変数で構成された調査セットをユーザーに提示する前に、良い医者自身からの簡単な使命声明を開きます。次に医師は、ユーザーの応答に最も適したプログラミング言語の専門家による推​​奨を処方します。
 
+最適なエクスペリエンスを得るには、まず左側のすべての回答を選択して送信してください。その後、右側のすべての回答で同じことを行います。最後に、答えを混ぜます。それぞれの組み合わせにより、異なる言語が提案されます。
 
 ## Setup/Installation Requirements セットアップ/インストール要件
 
