@@ -27,7 +27,7 @@ body {
   text-align: center;
   margin: auto;
   width: 85%;
-  background: url(/img/moroccan-flower.jpg)
+  background: url(/moroccan-flower.jpg)
 }
 
 .shortmessage {
@@ -52,18 +52,29 @@ h1 {
 }    
 
 h2 {
-  font-family: 'Parisienne';
+  font-family: "Times New Roman", Times, serif;
 }
 
 
 h3 {
-  font-family: 'Parisienne';
+  font-family: "Times New Roman", Times, serif;
 }
 
 p {
-  font-family: 'Parisienne';
+  font-family: "Times New Roman", Times, serif;
 }
 
 img {
   cursor: pointer;
 }
+
+p, p:lang(ja-jp) { 
+  font-family: serif; 
+  font-size: 17px; 
+  font-weight: normal; 
+  }
+
+  h2 {
+  font-family: serif; 
+  font-weight: normal; 
+  }
