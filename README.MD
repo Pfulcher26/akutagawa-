@@ -19,9 +19,9 @@ For optimal experience, first select all answers on left and submit.  After that
 
 _ENGLISH LANGUAGE VERSION_
 
-* Proceed to https://github.com/BrookeZK/akutagawa
+* Proceed to https://github.com/Pfulcher26/akutagawa
 * Navigate to desktop in command line by entering 'cd Desktop'  
-* Clone to desktop by entering 'git clone https://github.com/BrookeZK/pizza-shop' in the command line 
+* Clone to desktop by entering 'git clone https://github.com/Pfulcher26/akutagawa' in the command line 
 * Navigate to the folder 'akutagawa' by entering 'cd akutagawa' in the command line 
 * Once inside the akutagawa directory enter 'open index.html' to view the webpage in your browser
 

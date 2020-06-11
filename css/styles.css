@@ -64,7 +64,11 @@ p {
   font-family: "Times New Roman", Times, serif;
 }
 
-img {
+.bio {
+  cursor: pointer;
+}
+
+.mysteriousrock {
   cursor: pointer;
 }
 
