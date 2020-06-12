@@ -18,7 +18,25 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $("img").click(function() {
+  $(".bio").click(function() {
     alert("ああ!  You've revaled the hidden bio: Ryūnosuke Akutagawa, art name Chōkōdō Shujin, was a Japanese writer active in the Taishō period in Japan. He is regarded as the 'Father of the Japanese short story' and Japan's premier literary award, the Akutagawa Prize, is named after him. He died by suicide at the age of 35 through an overdose of barbital"); 
+  });
+});
+
+$(document).ready(function() {
+  $(".mysteriousrock").click(function() {
+    $(".Csharp").hide()
+  });
+});
+
+$(document).ready(function() {
+  $(".mysteriousrock").click(function() {
+    $(".Ruby").hide()
+  });
+});
+
+$(document).ready(function() {
+  $(".mysteriousrock").click(function() {
+    $(".Python").hide()
   });
 });
